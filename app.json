@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "trybecourse",
+    "slug": "trybecourse",
+    "version": "1.0.1",
+    "orientation": "default",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#26644e"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.gustavogss.trybecourse",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.gustavogss.trybecourse",
+      "versionCode": 1
+    }
+  }
+}
