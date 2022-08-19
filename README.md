@@ -2,7 +2,7 @@
 
 Aplicativo para Android que renderiza a página do Course da Trybe, desenvolvido durante a formação da Trybe para facilitar o consumo do conteúdo.
 
-## Tecnologias e ferramentas utilizadas :
+## Tecnologias e ferramentas utilizadas :robot:
 
 - [VSCode](https://code.visualstudio.com/)
 - [ReactNative](https://reactnative.dev/)
