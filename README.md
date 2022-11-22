@@ -25,7 +25,7 @@ Aplicativo para Android que renderiza a página do Course da Trybe, desenvolvido
 - Mas é necessário antes criar uma conta no site [expo.dev](https://expo.dev) para hospedar sua aplicação.
 - Você também pode emular a partir de seu dispositivo, seguindo os mesmos passos do item anterior.
 
-## Funcionanmento do app :runner:
+## Funcionamento do app :runner:
 
 https://user-images.githubusercontent.com/20332960/203393574-f5ffd860-9878-4079-9fc0-51ba622e4f11.mp4
 
