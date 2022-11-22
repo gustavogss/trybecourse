@@ -1,6 +1,6 @@
 # Projeto :rocket:
 
-Aplicativo para Android que renderiza a página do Course da Trybe, desenvolvido durante a formação da Trybe para facilitar o consumo do conteúdo.
+Aplicativo para Android que renderiza a página do Course da Trybe, desenvolvido durante a turma 15b na formação da Trybe para facilitar o consumo do conteúdo como forma de colaboração para toda a tribo.
 
 ## Tecnologias e ferramentas utilizadas :robot:
 
@@ -12,7 +12,8 @@ Aplicativo para Android que renderiza a página do Course da Trybe, desenvolvido
 
 ## Como utilizar :runner:
 
-- [Baixando a apk e instalando no seu celular Android](https://gustavosouza.dev.br/trybecourse/c571e7d1-0f70-437b-814a-1b327d54b57d-a6f7b349ac634d2b9d5f8d6c4a1fbcb2.apk)
+- [Baixando a apk e instalando no seu celular Android](https://gustavosouza.dev.br/trybe/trybecourse-10d9c554b0984865a3fb604e0ba2270b-signed.apk)
+
 
 - Ou clonando o repositório, instalando as dependências com o comando: expo install, em qualquer terminal dentro da pasta do projeto. Conectar seu aparelho via USB ao computador com a opção de desenvolvedor e fontes desconhecidas habilitadas.
 
@@ -23,3 +24,8 @@ Aplicativo para Android que renderiza a página do Course da Trybe, desenvolvido
 - O código foi escrito para as duas plataformas, e você pode gerar o ipa para IOS, buildando a partir de sua máquina Mac, com o comando: expo build:ios.
 - Mas é necessário antes criar uma conta no site [expo.dev](https://expo.dev) para hospedar sua aplicação.
 - Você também pode emular a partir de seu dispositivo, seguindo os mesmos passos do item anterior.
+
+## Funcionanmento do app :runner:
+
+https://user-images.githubusercontent.com/20332960/203393574-f5ffd860-9878-4079-9fc0-51ba622e4f11.mp4
+
