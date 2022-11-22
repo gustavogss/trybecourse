@@ -12,8 +12,8 @@ Aplicativo para Android que renderiza a página do Course da Trybe, desenvolvido
 
 ## Como utilizar :runner:
 
-- [Clique aqui] para baixar a apk e instalar no seu celular Android](https://gustavosouza.dev.br/trybe/trybecourse-10d9c554b0984865a3fb604e0ba2270b-signed.apk)
-
+- [Clique aqui](https://gustavosouza.dev.br/trybe/trybecourse-10d9c554b0984865a3fb604e0ba2270b-signed.apk)
+ para baixar a apk e instalar no seu celular Android
 
 - Ou clonando o repositório, instalando as dependências com o comando: expo install, em qualquer terminal dentro da pasta do projeto. Conectar seu aparelho via USB ao computador com a opção de desenvolvedor e fontes desconhecidas habilitadas.
 
