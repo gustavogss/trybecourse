@@ -10,7 +10,7 @@ Aplicativo para Android que renderiza a página do Course da Trybe, desenvolvido
 - [Expo](https://docs.expo.dev/)
 - [StyledComponents](https://styled-components.com/)
 
-## Como utilizar :runner:
+## Como utilizar 💚
 
 - [Clique aqui](https://gustavosouza.dev.br/trybe/trybecourse-10d9c554b0984865a3fb604e0ba2270b-signed.apk)
  para baixar a apk e instalar no seu celular Android
