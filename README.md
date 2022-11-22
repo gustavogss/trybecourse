@@ -1,6 +1,6 @@
 # Projeto :rocket:
 
-Aplicativo para Android que renderiza a página do Course da Trybe, desenvolvido durante a turma 15b na formação da Trybe para facilitar o consumo do conteúdo como forma de colaboração para toda a tribo.
+Aplicativo para Android que renderiza a página do Course da Trybe, desenvolvido durante a turma 15b para facilitar o consumo do conteúdo como forma de colaboração para toda a tribo.
 
 ## Tecnologias e ferramentas utilizadas :robot:
 
